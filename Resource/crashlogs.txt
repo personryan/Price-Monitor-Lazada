@@ -1,0 +1,4 @@
+2021-10-28 16:56:04.442782|near "s": syntax error
+2021-10-28 16:58:33.989263|[WinError 32] The process cannot access the file because it is being used by another process: '..\\Data\\CleanData\\2021-10-28T164034.csv' -> '..\\Data\\ProcessedData\\2021-10-28T164034.csv'
+2021-10-28 17:54:10.731656|list index out of range
+2021-10-28 17:55:37.807915|list index out of range
