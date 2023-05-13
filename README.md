@@ -1,7 +1,12 @@
-Author: Bruce Wang
+Author: Bruce Wang  
 DateOfEdit: 28-10-2021
+## Contributors:
+- Bruce Wang Zhuang Jie: 2102506@sit.singaporetech.edu.sg
+- Ng Lay Kiat: 2101035@sit.singaporetech.edu.sg
+- Ryan Lim: 2101702@sit.singaporetech.edu.sg
+- Ariff Sanip: 2102928@sit.singaporetech.edu.sg
 
-Welcome to our Price Monitor Project
+# Welcome to our Price Monitor Project
 
 Our price monitor project consists of 5 main folder that should have your attention
 
